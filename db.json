@@ -1,21 +1,21 @@
 {
   "tasks": [
     {
-      "id", "1",
+      "id": "1",
       "title": "Frontend React Developer",
       "status": "Pending Approval",
       "posted": "12 September 2019",
       expiring: "20 September 2019"
     },
    {
-     "id", "2",
+     "id": "2",
       "title": "Backend Java Developer",
       "status": "Pending Approval",
       "posted": "15 September 2019",
       expiring: "20 September 2019"
     },
     {
-      "id", "3",
+      "id": "3",
       "title": ".NET Developer",
       "status": "Expiring",
       "posted": "10 September 2019",
