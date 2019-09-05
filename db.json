@@ -1,28 +1,294 @@
 {
-  "tasks": [
+   "browsetask": [
+
     {
-      "id": "1",
-      "title": "Frontend React Developer",
-      "status": "Pending Approval",
-      "posted": "12 September 2019",
-      "expiring": "20 September 2019"
+
+      "AdditionalDetails": "Create Autosys scripts for EOD batches",
+
+      "BusinessUnit": "Commodities",
+
+      "Duration": 1,
+
+      "EndDate": "03/09/2019",
+
+      "LastDate": "03/09/2019",
+
+      "Name": "Add Autosys scripts for EOD batches",
+
+      "Rewards": "10",
+
+      "Skills": "Autosys",
+
+      "StartDate": "03/09/2019",
+
+      "Status": "Open",
+
+      "TaskOwner": "SS54232"
+
     },
-   {
-     "id": "2",
-      "title": "Backend Java Developer",
-      "status": "Pending Approval",
-      "posted": "15 September 2019",
-      "expiring": "20 September 2019"
-    },
+
     {
-      "id": "3",
-      "title": ".NET Developer",
-      "status": "Expiring",
-      "posted": "10 September 2019",
-      "expiring": "14 September 2019"
+
+      "AdditionalDetails": "Create Eod and SOD batches",
+
+      "BusinessUnit": "Commodities",
+
+      "Domain": "NA",
+
+      "Duration": 2,
+
+      "EndDate": "02/09/2019",
+
+      "LastDate": "04/09/2019",
+
+      "Name": "Crated SOD and EOD batches",
+
+      "Rewards": "80",
+
+      "Skills": "C#,SQL",
+
+      "StartDate": "02/09/2019",
+
+      "Status": "Open",
+
+      "TaskOwner": "BP18989"
+
+    },
+
+    {
+
+      "AdditionalDetails": "Create KVP Comparision Tool for 2 prod environment",
+
+      "BusinessUnit": "Commodities",
+
+      "Domain": "NA",
+
+      "Duration": 2,
+
+      "EndDate": "02/09/2019",
+
+      "LastDate": "04/09/2019",
+
+      "Name": "KVP Comparision Tool",
+
+      "Rewards": "100",
+
+      "Skills": "C#,SQL",
+
+      "StartDate": "02/09/2019",
+
+      "Status": "Open",
+
+      "TaskOwner": "BP18989"
+
+    },
+
+    {
+
+      "AdditionalDetails": "afaushgdag",
+
+      "BusinessUnit": "Samira",
+
+      "Domain": " Samira",
+
+      "Duration": "20",
+
+      "EndDate": "23-Aug-2019",
+
+      "LastDate": "23-Aug-2019",
+
+      "Name": "Samira",
+
+      "Rewards": "20",
+
+      "Skills": "c#.net",
+
+      "StartDate": "23-Aug-2019",
+
+      "Status": "Open",
+
+      "TaskOwner": "ss48984"
+
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  ]
+
+},
+
+ 
+
+ 
+
+ 
+
+{
+
+  "myassignements": [
+
+    {
+
+      "AdditionalDetails": "Create Recon testing Tool",
+
+      "BusinessUnit": "Commodities",
+
+      "Domain": "NA",
+
+      "Duration": 2,
+
+      "EndDate": "06/09/2019",
+
+      "LastDate": "04/09/2019",
+
+      "Name": "Create Recon testing Tool",
+
+      "Rewards": "50",
+
+      "Skills": "Python,Mongo",
+
+      "StartDate": "03/09/2019",
+
+      "Status": "Close",
+
+      "TaskOwner": "SS54232"
+
+    },
+
+    {
+
+      "AdditionalDetails": "Create Chat-bot for HR Communication",
+
+      "BusinessUnit": "HR",
+
+      "Domain": "NA",
+
+      "Duration": 2,
+
+      "EndDate": "12/09/2019",
+
+      "LastDate": "10/09/2019",
+
+      "Name": "Chat-bot for HR Communication",
+
+      "Rewards": "120",
+
+      "Skills": "C#,SQL",
+
+      "StartDate": "09/09/2019",
+
+      "Status": "InProgress",
+
+      "TaskOwner": "BP18989"
+
+    }
+
+  ]
+
+},
+
+ 
+
+ 
+
+ 
+
+{
+
+  "myassignmentsbids": [
+
+    {
+
+      "BidStatus": "Open",
+
+      "Name": "Add Autosys scripts for EOD batches",
+
+      "TaskId": "1",
+
+      "TaskOwner": "SS54232"
+
+    },
+
+    {
+
+      "BidStatus": "Close",
+
+      "Name": "Create Recon testing Tool",
+
+      "TaskId": "2",
+
+      "TaskOwner": "abc123"
+
+    }
+
+  ]
+
+},
+
+ 
+
+ 
+
+ 
+
+{
+
+  "mydetails": [
+
+    {
+
+      "ActiveTask": 1,
+
+      "OpenBids": 1,
+
+      "Posting": 1,
+
+      "Rating": "4",
+
+      "Rewards": 1050
+
+    }
+
+  ]
+
+},
+
+
+
+{
+
+  "myposting": [
+
+    {
+
+      "AdditionalDetails": "afaushgdag",
+
+      "BusinessUnit": "Samira",
+
+      "Domain": " Samira",
+
+      "Duration": "20",
+
+      "EndDate": "23-Aug-2019",
+
+      "LastDate": "23-Aug-2019",
+
+      "Name": "Samira",
+
+      "Rewards": "20",
+
+      "Skills": "c#.net",
+
+      "StartDate": "23-Aug-2019",
+
+      "Status": "Open",
+
+      "TaskContributer": "None",
+
+      "TaskOwner": "ss48984"
+
+    }
+
+  ]
+
+
+}
 }
